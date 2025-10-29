@@ -59,4 +59,5 @@ Custom Theme, Gradient Background, and KPIs Cards for modern UI design
 📈 Conclusion
 The Pizza Sales Analytics Dashboard delivers a comprehensive analysis of pizza sales data, providing valuable insights into customer preferences, sales performance, and revenue patterns. With interactive visuals and detailed KPIs, this dashboard empowers business stakeholders to make data-driven decisions, optimize inventory, and enhance marketing strategies. It serves as a powerful analytical tool to monitor performance, identify best-sellers, and uncover opportunities for growth in the competitive food market.
 
-Screenshot of what dashboard loooks like :
+Screenshot of what dashboard loooks like : https://github.com/swapnil-02-git/Pizza-sales-dashboard/blob/main/Screenshot%202025-10-29%20223934.png
+
